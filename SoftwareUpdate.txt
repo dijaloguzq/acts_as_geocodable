@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Elaborate Train and Predict mode docs arguments (#8137)

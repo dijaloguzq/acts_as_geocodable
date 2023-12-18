@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+OBB: Fix plot_images (#7592)

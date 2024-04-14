@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
